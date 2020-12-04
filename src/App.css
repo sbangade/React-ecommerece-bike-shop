@@ -16,7 +16,7 @@ body{
   text-transform: uppercase;
 }
 .text-blue {
-  color: var(--mainBlue);
+  color: var(--lightBlue);
 }
 .btn-black {
   background: transparent;
